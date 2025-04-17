@@ -13,5 +13,4 @@ Welcome to my GitHub profile! I'm passionate about crafting creative solutions t
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dylaascreate&show_icons=true&theme=radical" alt="dylaascreate's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dylaascreate&theme=radical" alt="GitHub Streak" /> </p>
 
-🌐 Connect With Me
-dylaascreate@gmail.com
+🌐 Connect With Me at dylaascreate@gmail.com
