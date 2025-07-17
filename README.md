@@ -1,7 +1,7 @@
 👋 Hey there, I’m @dylaascreate
 Welcome to my GitHub profile! I'm passionate about crafting creative solutions through code and design.
 
-💡 About Me
+💡 About Me <br>
 🧠 I’m interested in Computer Science, Technology, Web Development, and Graphic Design. <br>
 🌱 Currently learning more about Computer Science and sharpening my coding skills. <br>
 🤝 Looking to collaborate on Website Development projects. <br>
